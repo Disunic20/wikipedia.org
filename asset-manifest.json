@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wikipeida/static/css/main.af3d1846.css",
+    "main.js": "/wikipeida/static/js/main.842a4886.js",
+    "static/js/787.d6873487.chunk.js": "/wikipeida/static/js/787.d6873487.chunk.js",
+    "index.html": "/wikipeida/index.html",
+    "main.af3d1846.css.map": "/wikipeida/static/css/main.af3d1846.css.map",
+    "main.842a4886.js.map": "/wikipeida/static/js/main.842a4886.js.map",
+    "787.d6873487.chunk.js.map": "/wikipeida/static/js/787.d6873487.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af3d1846.css",
+    "static/js/main.842a4886.js"
+  ]
+}
